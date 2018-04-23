@@ -1,0 +1,3 @@
+alto      car       suzuki    800cc     26kmpl    
+swift     car       suzuki    1200c     22kmpl    
+verna     car       hyundai   1500cc    16kmpl    
